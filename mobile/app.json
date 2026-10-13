@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Community Service",
+    "slug": "community-service",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.example.communityservice"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.communityservice",
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
