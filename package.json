@@ -1,0 +1,15 @@
+{
+  "name": "smart-community-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smart Community Service & Complaint Management System (React Native + Express + MongoDB)",
+  "scripts": {
+    "setup": "npm --prefix server install && npm --prefix mobile run setup",
+    "db": "docker compose up -d",
+    "seed": "npm --prefix server run seed",
+    "api": "npm --prefix server start",
+    "api:dev": "npm --prefix server run dev",
+    "app": "npm --prefix mobile start",
+    "web": "npm --prefix mobile run web"
+  }
+}
