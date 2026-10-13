@@ -117,6 +117,76 @@ Everything is under `/api` and needs `Authorization: Bearer <token>` except regi
 
 Images are served from `/uploads/<file>`.
 
+## Screenshots
+
+![Screenshot 1](Screenshots/Screenshot1.png)
+
+![Screenshot 2](Screenshots/Screenshot2.png)
+
+![Screenshot 3](Screenshots/Screenshot3.png)
+
+![Screenshot 4](Screenshots/Screenshot4.png)
+
+![Screenshot 5](Screenshots/Screenshot5.png)
+
+![Screenshot 6](Screenshots/Screenshot6.png)
+
+![Screenshot 7](Screenshots/Screenshot7.png)
+
+![Screenshot 8](Screenshots/Screenshot8.png)
+
+![Screenshot 9](Screenshots/Screenshot9.png)
+
+![Screenshot 10](Screenshots/Screenshot10.png)
+
+![Screenshot 11](Screenshots/Screenshot11.png)
+
+![Screenshot 12](Screenshots/Screenshot12.png)
+
+![Screenshot 13](Screenshots/Screenshot13.png)
+
+![Screenshot 14](Screenshots/Screenshot14.png)
+
+![Screenshot 15](Screenshots/Screenshot15.png)
+
+![Screenshot 16](Screenshots/Screenshot16.png)
+
+![Screenshot 17](Screenshots/Screenshot17.png)
+
+![Screenshot 18](Screenshots/Screenshot18.png)
+
+![Screenshot 19](Screenshots/Screenshot19.png)
+
+![Screenshot 20](Screenshots/Screenshot20.png)
+
+![Screenshot 21](Screenshots/Screenshot21.png)
+
+![Screenshot 22](Screenshots/Screenshot22.png)
+
+![Screenshot 23](Screenshots/Screenshot23.png)
+
+![Screenshot 24](Screenshots/Screenshot24.png)
+
+![Screenshot 25](Screenshots/Screenshot25.png)
+
+![Screenshot 26](Screenshots/Screenshot26.png)
+
+![Screenshot 27](Screenshots/Screenshot27.png)
+
+![Screenshot 28](Screenshots/Screenshot28.png)
+
+![Screenshot 29](Screenshots/Screenshot29.png)
+
+![Screenshot 30](Screenshots/Screenshot30.png)
+
+![Screenshot 31](Screenshots/Screenshot31.png)
+
+![Screenshot 32](Screenshots/Screenshot32.png)
+
+---
+
+Developed by Pankaj Saini
+
 ## Things I'd mention if asked
 
 - Validation happens twice: on the form (so people see mistakes right away) and again on the server (so nobody can skip the form).
